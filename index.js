@@ -128,6 +128,6 @@ async function getScrapping(url) {
   }
 }
 
-getScrapping(iptvCatURL + "/brazil");
+getScrapping(iptvCatURL + "/united_kingdom");
 
 module.exports = { getScrapping };
